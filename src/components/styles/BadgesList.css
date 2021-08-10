@@ -1,0 +1,33 @@
+.BadgesListItem {
+    background: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    border-radius: 5px;
+    display: flex;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.BadgesList__content > p {
+    margin: 5px 0;
+}
+.BadgesList__fullName {
+    font-size: 20px;
+    margin: 0;
+}
+.BadgesList__twitter {
+    color: rgb(14, 159, 207);
+}
+.BadgesList__jobTitle {
+    font-size: 14px;
+}
+
+.BadgesList__image {
+    margin-right: 1em;
+}
+.BadgesListItem__avatar {
+    border-radius: 50%;
+    background: #a3a3a3;
+    margin-right: 0.5rem;
+    width: 80px;
+    height: 80px;
+}
