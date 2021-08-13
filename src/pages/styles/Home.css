@@ -1,0 +1,24 @@
+.home-container {
+    background: url("../../images/stars.svg"), #1b1b25;
+    height: calc(100vh - 60px);
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.home--center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home__title {
+    margin-top: 20px;
+}
+.home__text {
+    font-size: 18px;
+}
+
+.home__illustration {
+    width: 100%;
+}

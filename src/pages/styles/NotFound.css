@@ -1,0 +1,15 @@
+.not-found {
+    background: url("../../images/stars.svg"), #1b1b25;
+    height: calc(100vh - 60px);
+    color: #fff;
+    text-align: center;
+    display: grid;
+    place-content: center;
+}
+
+.not-found__image {
+    width: 50%;
+}
+.not-found__title {
+    margin-top: 10px;
+}
