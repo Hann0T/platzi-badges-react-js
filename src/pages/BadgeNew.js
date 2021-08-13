@@ -31,7 +31,7 @@ class BadgeNew extends React.Component {
         e.preventDefault();
         // this.setState({ loading: true, error: null });
         try {
-            await api.badges.create(this.state.from);
+            await api.badges.create(this.state.form);
             // this.setState({ loading: false });
         } catch (error) {
             // this.setState({ loading: false, error: error });
