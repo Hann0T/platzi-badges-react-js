@@ -25,7 +25,7 @@ class Home extends React.Component {
                                     conference.
                                 </p>
                             </div>
-                            <Link to="/Badges" className="btn btn-primary">
+                            <Link to="/badges" className="btn btn-primary">
                                 Start Now
                             </Link>
                         </div>

@@ -49,9 +49,37 @@
       "firstName": "hans",
       "lastName": "olivas",
       "email": "hansolivas1@gmail.com",
-      "jobTitle": "frontend",
+      "jobTitle": "frontend developer",
       "twitter": "hann0t",
-      "id": "geYeZKG"
+      "avatarUrl": "https://www.gravatar.com/avatar/599cec4925241a82cb1e45aec503ecf8?d=identicon",
+      "id": "QLN47ew"
+    },
+    {
+      "firstName": "la",
+      "lastName": "wea",
+      "email": "wea@gmail.com",
+      "jobTitle": "cosa",
+      "twitter": "wea",
+      "avatarUrl": "https://www.gravatar.com/avatar/1e6911644e7b79f1c044633818784f4b?d=identicon",
+      "id": "LDBXQNR"
+    },
+    {
+      "firstName": "rick",
+      "lastName": "sanchez",
+      "email": "rick@asd.com",
+      "jobTitle": "100tifik",
+      "twitter": "ricksanchez",
+      "avatarUrl": "https://www.gravatar.com/avatar/3b89994003908d1454ae2760964da2db?d=identicon",
+      "id": "PzgICma"
+    },
+    {
+      "firstName": "snoopy",
+      "lastName": "brown",
+      "email": "snoopyBrown@gmail.com",
+      "jobTitle": "doggo",
+      "twitter": "snoopy",
+      "avatarUrl": "https://www.gravatar.com/avatar/630ce1fbda0671cb4c96ea9deac7d237?d=identicon",
+      "id": "2gyf0iR"
     }
   ]
 }
